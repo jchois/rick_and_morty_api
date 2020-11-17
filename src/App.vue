@@ -2,10 +2,11 @@
   <div id="app">
     <div class="hero is-white is-gradient is-bold">
       <div class="hero-body">
-        <h1 class="title">
-          <span class="has-text-success">R&M</span>
-          <span class="subtitle">Personaje</span>
-        </h1>
+        <div>
+          <a href="/">
+            <img src="./assets/rick_morty_logo.png" alt="" width="50%">
+          </a>
+        </div>
 
         <div class="field has-addons is-pulled-right">
           <div class="control">

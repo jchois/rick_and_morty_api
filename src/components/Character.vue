@@ -5,7 +5,7 @@
         <img v-bind:src="character.image" v-bind:alt="character.name" />
       </div>
 
-      <div class="card-container">
+      <div class="card-container m-4">
         <h3 class="title is-size-4">{{ character.name }}</h3>
         <button class="button is-success is-rounded is-small" @click="showMore(character.id)">Ver mas</button>
       </div>
