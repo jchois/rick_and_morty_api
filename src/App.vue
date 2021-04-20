@@ -32,7 +32,7 @@
 
     <div class="container">
       <div
-        class="columns is-desktop is-mobile is-tablet is-multiline is-centered"
+        class="columns is-desktop is-mobile is-tablet is-multiline is-centered mt-1"
       >
         <character
           @showModal="showModal"

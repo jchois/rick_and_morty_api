@@ -19,7 +19,7 @@ export default {
   methods: {
     showMore (id) {
       this.$emit("showModal", id);
-      console.log("jejejejeje");
+      console.log("See more");
     }
   },
 };
